@@ -1,3 +1,5 @@
+> Uses deprecated API.
+
 # DBI 
 Io DBI bindings.
 
