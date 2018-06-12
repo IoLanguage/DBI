@@ -1,0 +1,15 @@
+{
+  "name":         "DBI",
+  "version":      "0.1",
+  "description":  "Io DBI bindings.",
+  "author":       "Jeremy Cowgar",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["DBI"],
+  "dependencies": {
+    "libs":     ["dbi"],
+    "headers":  ["dbi.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
